@@ -1,0 +1,16 @@
+C:\Users\Jake\source\repos\RandomFileOpener\bin\Release\net8.0-windows\RandomFileOpener.exe
+C:\Users\Jake\source\repos\RandomFileOpener\bin\Release\net8.0-windows\RandomFileOpener.deps.json
+C:\Users\Jake\source\repos\RandomFileOpener\bin\Release\net8.0-windows\RandomFileOpener.runtimeconfig.json
+C:\Users\Jake\source\repos\RandomFileOpener\bin\Release\net8.0-windows\RandomFileOpener.dll
+C:\Users\Jake\source\repos\RandomFileOpener\bin\Release\net8.0-windows\RandomFileOpener.pdb
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\RandomFileOpener.RandomFileOpenerForm.resources
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\RandomFileOpener.csproj.GenerateResource.cache
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\RandomFileOpener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\RandomFileOpener.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\RandomFileOpener.AssemblyInfo.cs
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\RandomFileOpener.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\RandomFileOpener.dll
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\refint\RandomFileOpener.dll
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\RandomFileOpener.pdb
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\RandomFileOpener.genruntimeconfig.cache
+C:\Users\Jake\source\repos\RandomFileOpener\obj\Release\net8.0-windows\ref\RandomFileOpener.dll

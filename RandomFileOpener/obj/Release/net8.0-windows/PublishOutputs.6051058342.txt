@@ -1,0 +1,5 @@
+C:\Users\Jake\source\repos\RandomFileOpener\bin\Release\net8.0-windows\publish\RandomFileOpener.exe
+C:\Users\Jake\source\repos\RandomFileOpener\bin\Release\net8.0-windows\publish\RandomFileOpener.dll
+C:\Users\Jake\source\repos\RandomFileOpener\bin\Release\net8.0-windows\publish\RandomFileOpener.deps.json
+C:\Users\Jake\source\repos\RandomFileOpener\bin\Release\net8.0-windows\publish\RandomFileOpener.runtimeconfig.json
+C:\Users\Jake\source\repos\RandomFileOpener\bin\Release\net8.0-windows\publish\RandomFileOpener.pdb
